@@ -1,5 +1,5 @@
-spring.application.name=eureka-server
-server.port=1001
+spring.application.name=ewy
+server.port=3004
 msg=1111
 #属性表示是否将自己注册到Eureka Server
 eureka.client.register-with-eureka=false
